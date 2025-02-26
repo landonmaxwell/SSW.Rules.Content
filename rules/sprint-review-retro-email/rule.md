@@ -1,7 +1,9 @@
 ---
-seoDescription: Learn how to create a structured Sprint Review/Retro email template with best practices for clear communication and effective team collaboration in Agile processes.
 type: rule
 title: Do you create a Sprint Review/Retro email?
+seoDescription: Learn how to create a structured Sprint Review/Retro email
+  template with best practices for clear communication and effective team
+  collaboration in Agile processes.
 uri: sprint-review-retro-email
 authors:
   - title: Ulysses Maclaren
@@ -16,7 +18,6 @@ authors:
     url: https://ssw.com.au/people/christian-morford-waite
   - title: Seth Daily
     url: https://ssw.com.au/people/seth-daily
-    
 related:
   - roadmap
   - do-you-know-what-happens-at-a-sprint-retrospective-meeting
@@ -33,7 +34,12 @@ After any Sprint Review and Retrospective, an email should be sent to all the st
 
 <!--endintro-->
 
-Firstly, create a new email copying the information from the previous Sprint Review/Retro. As per [Do you know what happens at a Sprint Retrospective meeting?](/do-you-know-what-happens-at-a-sprint-retrospective-meeting), it should include the following:
+Firstly, create a new email copying the information from the previous Sprint Review/Retro.
+
+Once you have filled out the email, record a summary video where you go through the important info in the email. This is the best way to share the information, especially if Product Owners, Stakeholders, or team members were unavailable during the Sprint Review & Retro. Include a link to the video in the email.
+See the [TinaCloud team's Summary Video playlist for examples](https://youtube.com/playlist?list=PLPar4H9PHKVrahKk4PzKtcEstFDDMlxzr&si=xXhrLhRlWJVcxtNT). 
+
+As per [Do you know what happens at a Sprint Retrospective meeting?](/do-you-know-what-happens-at-a-sprint-retrospective-meeting), it should include the following:
 
 ::: info
 It's important that an [Email Group](/groups-in-microsoft-365/#microsoft-365-groups) is setup for the project, and the Sprint Review is sent to that group, so that anyone who joins the project in future can access these reports from shared inbox as per [Do you choose which Microsoft 365 Groups you follow?](/following-microsoft-365-groups)
